@@ -69,7 +69,7 @@ section#ft01{
 }
 section#ft02{
     background-image: url(imagens/background002.jpg);
-    background-position: center center;
+    background-position: center bottom;
 }
 section.foto > p {
     background-color: rgba(0, 0, 0, 0.336);
